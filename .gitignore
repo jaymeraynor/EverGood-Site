@@ -1,0 +1,12 @@
+*.pdf
+assets/contact-*.jpg
+assets/products/*
+!assets/products/exo-p01-06-fdb999daa7.jpg
+!assets/products/exo-p18-05-c82340de35.jpg
+!assets/products/exo-p22-12-d68116eb9d.jpg
+!assets/products/exo-p27-14-755bf27f81.jpg
+!assets/products/exo-p31-13-8573734331.jpg
+!assets/products/prasara-p01-03-5fe277457d.png
+!assets/products/prasara-p03-02-cf444d32a5.jpg
+!assets/products/prasara-p05-03-722062b4b4.jpg
+!assets/products/prasara-p09-04-03e31f6aa3.jpg
