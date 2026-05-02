@@ -18,7 +18,7 @@ const translations = {
     filterHerbal: "草本護理",
     filterOral: "口腔護理",
     scienceEyebrow: "Ingredient Intelligence",
-    scienceTitle: "把 PDF 的核心賣點轉成可被搜尋理解的內容",
+    scienceTitle: "外泌體科技與草本智慧，打造穩定日常保養",
     scienceBody: "EXO 金萃系列聚焦黃金山茶花外泌體、玫瑰 PDRN、蘋果幹細胞、智慧型玻尿酸與舒緩因子；Prasara 系列則以印楝、余甘子、豆蔻、長胡椒等草本配方，延伸從潔淨到口腔護理的日常儀式。",
     ingredientExosome: "精準傳遞活性成分，支援肌膚修護與穩定。",
     ingredientPdrn: "協助更新、保濕與舒緩，是金萃系列的修護核心。",
